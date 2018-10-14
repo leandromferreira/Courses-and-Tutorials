@@ -18,7 +18,7 @@
    
    DataCamp is an online compiler learning platform, so i did not save the script i did on the courses. I'll put a list of the complete tracks here. For a more complete list see the [DataCamp file](https://github.com/leandromferreira/Course-and-Tutorials/blob/master/Python/DataCamp_course.md) or my profile in the site. 
 
-  The site also offers tutorials and projects for practice. I will put the notebooks in the datacamp projects folder and the tutotials in datacamp tutorials folder. 
+  The site also offers tutorials and projects for practice. I will put the notebooks in the [datacamp projects folder](https://github.com/leandromferreira/Course-and-Tutorials/tree/master/Python/DataCamp%20Projects) and the tutotials in [datacamp tutorials folder](https://github.com/leandromferreira/Course-and-Tutorials/tree/master/Python/DataCamp%20Tutorials). 
    
    * [Data Scientist with Python Track](https://www.datacamp.com/statement-of-accomplishment/track/3f3efb20ba26d271499c565068844b03b2976262)
    * [Machine Learning with Python Track](https://www.datacamp.com/statement-of-accomplishment/track/ad8ee087e8e25bec1dee54490ef241f7ceabc36e)
